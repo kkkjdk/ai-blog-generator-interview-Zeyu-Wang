@@ -1,0 +1,16 @@
+{
+    "keywords": [
+        {
+            "name": "technology",
+            "search_volume": 12000,
+            "difficulty": 75,
+            "cpc": 3.45
+        },
+        {
+            "name": "environment",
+            "search_volume": 18500,
+            "difficulty": 89,
+            "cpc": 4.20
+        }
+    ]
+}
